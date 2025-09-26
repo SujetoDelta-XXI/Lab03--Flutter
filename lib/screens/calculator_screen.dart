@@ -71,7 +71,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
       textStyle: const TextStyle(
         fontSize: 28,
         fontWeight: FontWeight.bold,
-        color: Colors.cyanAccent,
+        color: Color.fromARGB(255, 248, 248, 248),
       ),
     );
 
